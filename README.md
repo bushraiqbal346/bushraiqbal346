@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bushra Iqbal</h1>
-<h3 align="center">A passionate Python developer from Pakistan</h3>
+<h3 align="center">A passionate AI Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bushraiqbal346&label=Profile%20views&color=0e75b6&style=flat" alt="bushraiqbal346" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bushraiqbal346" alt="bushraiqbal346" /></a> </p>
 
-- 🌱 I’m currently learning **Coding**
+- 🌱 I’m currently learning **Deep learning**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **bushraiqbalch786@gmail.com**
 
